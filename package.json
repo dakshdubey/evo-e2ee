@@ -1,0 +1,32 @@
+{
+  "name": "evo-e2ee",
+  "version": "1.0.0",
+  "description": "Production-grade End-to-End Encryption SDK for React and Node.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "e2ee",
+    "encryption",
+    "security",
+    "whatsapp",
+    "sdk",
+    "typescript"
+  ],
+  "author": "Daksha Dube",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dakshdubey/evo-e2ee"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.9.3"
+  }
+}
