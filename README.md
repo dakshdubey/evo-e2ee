@@ -9,7 +9,7 @@ Production-grade End-to-End Encryption (E2EE) SDK for **React**, **Node.js**, an
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 ![Architecture Flow](./evo_e2ee_architecture_flow_1767963597205.png)
 
@@ -45,7 +45,7 @@ sequenceDiagram
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Installation
 ```bash
@@ -76,7 +76,7 @@ const { identityKey, encryptionKey } = evoE2EE.getPublicKeys();
 
 ---
 
-## 🔐 Developer Manual
+##  Developer Manual
 
 ### Sending a Secure Message
 To send a message, you need the recipient's **Encryption Public Key**.
@@ -120,5 +120,5 @@ try {
 
 ---
 
-## 📜 License
+##  License
 MIT License. Created by **Daksha Dubey**.
