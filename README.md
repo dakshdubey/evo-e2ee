@@ -120,5 +120,5 @@ try {
 
 ---
 
-##  Non-Commercial License
+## License
 Non-Commercial License . Created by **Daksha Dubey**.
