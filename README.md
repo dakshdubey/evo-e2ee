@@ -120,5 +120,5 @@ try {
 
 ---
 
-##  License
-EvoE2EE Community & Non-Commercial License (v1.0). Created by **Daksha Dubey**.
+##  Non-Commercial License
+Non-Commercial License . Created by **Daksha Dubey**.
