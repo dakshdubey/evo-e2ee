@@ -1,11 +1,12 @@
 {
   "name": "evo-e2ee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production-grade End-to-End Encryption SDK for React and Node.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "banner.png"
   ],
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
@@ -23,7 +24,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dakshdubey/evo-e2ee"
+    "url": "git+https://github.com/dakshdubey/evo-e2ee.git"
   },
   "devDependencies": {
     "@types/node": "^20.11.24",

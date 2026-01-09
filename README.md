@@ -1,6 +1,6 @@
 # EvoE2EE SDK (End-to-End Encryption)
 
-![EvoE2EE Security Shield](./evo_e2ee_security_shield_1767963619589.png)
+![EvoE2EE Banner](./EvoE2EE.png)
 
 Production-grade End-to-End Encryption (E2EE) SDK for **React**, **Node.js**, and **Vanilla JS**. Built on top of **ECDH (P-256)**, **AES-256-GCM**, and **HKDF**.
 
