@@ -121,4 +121,4 @@ try {
 ---
 
 ##  License
-MIT License. Created by **Daksha Dubey**.
+EvoE2EE Community & Non-Commercial License (v1.0). Created by **Daksha Dubey**.
